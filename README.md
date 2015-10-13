@@ -24,7 +24,7 @@ If you're using rbenv, you need to create the shim for the rdd executable.
 
 For usage help, run:
     
-    $ rdd score
+    $ rdd
 
 Typical command would be something like:
 
