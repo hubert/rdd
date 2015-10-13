@@ -1,0 +1,4 @@
+require 'rdd'
+
+default_args = ARGV.empty? ? ["help", "score"] : ARGV
+RDD::CLI.start(default_args)
