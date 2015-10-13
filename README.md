@@ -4,17 +4,13 @@ Command line scorer of repos using [Github Archive](https://www.githubarchive.or
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Clone this repo and build the gem:
 
-    gem 'rdd'
-
-And then execute:
-
-    $ bundle
+    $ gem build rdd.gemspec
 
 Or install it yourself as:
 
-    $ gem install rdd
+    $ gem install rdd-0.0.1.gem
 
 If you're using rbenv, you need to create the shim for the rdd executable.
 
