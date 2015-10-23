@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'rdd'
 
 default_args = ARGV.empty? ? ["help", "score"] : ARGV
